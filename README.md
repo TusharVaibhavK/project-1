@@ -188,6 +188,11 @@ npm run dev
 - **Docker & Docker Compose**
 - **Nodemon**
 
+### ASCII Art
+  _      _      _
+>(.)__ <(.)__ =(.)__
+ (___/  (___/  (___/
+
 ## 👨‍💻 Contributors
 
 <a href="https://github.com/trahulprabhu38/project-1/graphs/contributors">
