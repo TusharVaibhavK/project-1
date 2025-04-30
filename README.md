@@ -221,13 +221,9 @@ print a cat to your console
                                   `"7tY~'            `\  `\    `|_   |
                                                            `~\  |
 
-Options:
-  -c, --cats  get list of cat names
-  -h, --help  Show help                                                [boolean]
 
-Examples:
-  asciiCats
-  asciiCats nyan
+
+### Cat
 
 
 
