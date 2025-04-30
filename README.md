@@ -189,8 +189,8 @@ npm run dev
 - **Nodemon**
 
 ### ASCII Art
-
-
+C A T   M E
+print a cat to your console
                    ;,_            ,
                   _uP~"b          d"u,
                  dP'   "b       ,d"  "o
@@ -207,7 +207,7 @@ npm run dev
   .df'   `"           -=@QgpOY""     (b  @@@@P db    `Lp"b,
  .d(                  _               "ko "=d_,Q`  ,_  "  "b,
  Ql         .         `"qo,._          "tQo,_`""bo ;tb,    `"b,
-(qQ         |L           ~"QQQgggc,_.,dObc,opooO  `"~~";.   __,7,
+(qQ         |L           ~"QQQgggc,_.,dObc,opooO  `"~~";.    __,7,
 `qp         t\io,_           `~"TOOggQV""""        _,dg,_ =PIQHib.
  `qp        `Q["tQQQo,_                          ,pl{QOP"'   7AFR`
    `         `tb  '""tQQQg,_             p" "b   `       .;-.`Vl'
@@ -221,6 +221,13 @@ npm run dev
                                   `"7tY~'            `\  `\    `|_   |
                                                            `~\  |
 
+Options:
+  -c, --cats  get list of cat names
+  -h, --help  Show help                                                [boolean]
+
+Examples:
+  asciiCats
+  asciiCats nyan
 
 
 
